@@ -8,3 +8,4 @@
 | ReactJS             | Python            |               | Pnpm                |            |           |
 | CSS                 | TypeORM           |               | Npm                 |            |           |
 | HTML                |                   |               | Pip                 |            |           |
+| Ant Design of React |
