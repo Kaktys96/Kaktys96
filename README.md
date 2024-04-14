@@ -1,11 +1,10 @@
-# My Awesome Project
-## License
-My skills
----
+## My skills
 
-| Name          | Email                 |
-|---------------|-----------------------|
-| John Doe      | johndoe@example.com   |
-| Jane Smith    | janesmith@example.com |
-|               |                       |
-|               |                       |
+| Frontend            | Backend           | DevOps        | Codebase Management | Testing    |
+| ------------------- | ----------------- | ------------- | ------------------- | ---------- |
+| ReactJS             | NodeJS            | Docker        | Nx Monorepo         | playwright |
+| NextJS Framework    | NestJS Framework  |               | Git                 |            |
+| HTML                | PostgreSQL        |               | Yarn                |            |
+| CSS                 | Python            |               | Pnpm                |            |
+| Javascript          | TypeORM           |               | Npm                 |            |
+| TypeScript          | Swagger           |               | Pip                 |            |
